@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mapview_is_null">QueryIdenty MapView 空异常</string>
+    <string name="mapview_is_not_load">QueryIdenty MapView 没有加载完成</string>
+    <string name="mapview_except">QueryIdenty MapView 异常</string>
+    <string name="query_url_is_null">QueryIdenty 查询url为空</string>
+    <string name="null_except">QueryIdenty 空指针异常</string>
+</resources>

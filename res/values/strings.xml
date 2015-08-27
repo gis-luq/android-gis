@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Place Search</string>
+    <string name="action_search">Place Search</string>
+    <string name="action_clear">Clear</string>
+    <string name="search_hint">Search address or place</string>
+    <string name="search_title">Search</string>
+    <string name="suggestion_text">Suggestion</string>
+
+    <!-- Button strings -->
+    <string name="button_household">Average Household > 3.5</string>
+    <string name="button_reset">Clear Graphics</string>
+    <!-- progress dialog messages -->
+    <string name="address_search">Searching for Address</string>
+    <string name="query_service">http://services.arcgisonline.com/ArcGIS/rest/services/Demographics/USA_Average_Household_Size/MapServer</string>
+
+    <string name="identify_task_url_for_avghouseholdsize">http://services.arcgisonline.com/arcgis/rest/services/Demographics/USA_Diversity_Index/MapServer</string>
+    <string name="identify_task_url_for_populationdensity">http://server.arcgisonline.com/arcgis/rest/services/Demographics/USA_Population_Density/MapServer</string>
+
+    <!-- Attributes -->
+    <string name="NAME">Name</string>
+    <string name="LANDAREA">Land Area in Square Miles</string>
+    <string name="ID">ID</string>
+    <string name="ST_ABBREV">State Abbreviation</string>
+    <string name="TOTPOP_CY">2012 Total Population (Esri)</string>
+</resources>
